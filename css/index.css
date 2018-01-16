@@ -30,7 +30,7 @@ body{
     align-items: center;
 }
 .swiper-scrollbar-drag{
-    background: rgba(0,0,0,0.5);
+    background: #2691fd;
 }
 .swiper-slide > a{
     width:100%;
